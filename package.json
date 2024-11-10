@@ -1,0 +1,15 @@
+{
+  "name": "resettlemene_to_class",
+  "version": "1.0.0",
+  "description": "Software for changing seats in students' classrooms and all this in order to make it easier for the teachers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "changingPlaces"
+  },
+  "author": "Rachely N & Chany F & Esty P",
+  "license": "ISC"
+}
